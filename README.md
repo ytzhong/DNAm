@@ -2,7 +2,7 @@ In this folder, we present the weights trained from the Framingham Heart Study w
 
 Files are:
 1. CV_full_weights_DNAm_part0.tar.gz - CV_full_weights_DNAm_part5.tar.gz contains weights trained from CVs-only models
-2. RV_full_weights_DNAm_part0.tar.gz - RV_full_weights_DNAm_part52.tar.gzcontains weights trained from RVs-only models
+2. RV_full_weights_DNAm_part0.tar.gz - RV_full_weights_DNAm_part26.tar.gzcontains weights trained from RVs-only models
 
 After unziping the files, there are multiple .RDat files with the names of genes (official symbol). 
 
