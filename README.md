@@ -8,7 +8,7 @@ After unziping the files, there are multiple .RDat files with the names of genes
 
 In each .RDat file, there are three components:
 1. bimfile: contains the SNP location (hg19), reference allele, and alternative allele
-2. R2: contains Rsq based on elastic net models cross-validated with lambda.1se and lambda.min and their corresponding number of genetic variants included
+2. R2: contains R based on elastic net models cross-validated with lambda.1se and lambda.min and their corresponding number of genetic variants included
 3. wgt.matrix: contains weights trained by elastic net regession cross-validated with lambda.1se and lambda.min
 
 Further details of the models and dataset are described in:
