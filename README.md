@@ -15,8 +15,7 @@ Further details of the models and dataset are described in:
 Yang T, Wei P, Pan W. Integrative analysis of multi-omics data for discovering low-frequency variants in association studies for low-density lipoprotein cholesterol levels (unpublished work)
 
 Disclaimer:
-The user assumes the entire risk associated with its use of these data.  
-The user is responsible to comply with any data usage policy from the original FHS study.
+The user assumes the entire risk associated with its use of these data and is responsible to comply with any data usage policy from the original FHS study.
 
 Stay healthy!
 
