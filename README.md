@@ -14,7 +14,7 @@ In each .RDat file, there are three components:
 Further details of the models and dataset are described in:
 Yang T, Wei P, Pan W. Integrative analysis of multi-omics data for discovering low-frequency variants in association studies for low-density lipoprotein cholesterol levels (unpublished work)
 
-# Disclaimer
+### Disclaimer
 The user assumes the entire risk associated with its use of these data.  
 The user is responsible to comply with any data usage policy from the original FHS study.
 
